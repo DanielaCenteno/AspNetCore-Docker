@@ -1,0 +1,10 @@
+C:\Program Files\Docker Toolbox\AspNetCoreOnDocker\bin\Debug\netcoreapp2.0\AspNetCoreOnDocker.deps.json
+C:\Program Files\Docker Toolbox\AspNetCoreOnDocker\bin\Debug\netcoreapp2.0\AspNetCoreOnDocker.runtimeconfig.json
+C:\Program Files\Docker Toolbox\AspNetCoreOnDocker\bin\Debug\netcoreapp2.0\AspNetCoreOnDocker.runtimeconfig.dev.json
+C:\Program Files\Docker Toolbox\AspNetCoreOnDocker\bin\Debug\netcoreapp2.0\AspNetCoreOnDocker.dll
+C:\Program Files\Docker Toolbox\AspNetCoreOnDocker\bin\Debug\netcoreapp2.0\AspNetCoreOnDocker.pdb
+C:\Program Files\Docker Toolbox\AspNetCoreOnDocker\obj\Debug\netcoreapp2.0\AspNetCoreOnDocker.csproj.CoreCompileInputs.cache
+C:\Program Files\Docker Toolbox\AspNetCoreOnDocker\obj\Debug\netcoreapp2.0\AspNetCoreOnDocker.AssemblyInfoInputs.cache
+C:\Program Files\Docker Toolbox\AspNetCoreOnDocker\obj\Debug\netcoreapp2.0\AspNetCoreOnDocker.AssemblyInfo.cs
+C:\Program Files\Docker Toolbox\AspNetCoreOnDocker\obj\Debug\netcoreapp2.0\AspNetCoreOnDocker.dll
+C:\Program Files\Docker Toolbox\AspNetCoreOnDocker\obj\Debug\netcoreapp2.0\AspNetCoreOnDocker.pdb
